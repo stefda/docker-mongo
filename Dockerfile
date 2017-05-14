@@ -1,4 +1,4 @@
-docker-entrypoint-override.shFROM mongo:3.4
+FROM mongo:3.4
 
 COPY docker-entrypoint-override.sh /usr/local/bin/
 
