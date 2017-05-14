@@ -1,8 +1,6 @@
 # mongo
 
-An override of the official [mongo image](https://hub.docker.com/_/mongo/) that
-allows to set up username, password and database via docker-compose environment
-variables.
+An override of the official [mongo image](https://hub.docker.com/_/mongo/) that allows to set up username, password and database via docker-compose environment variables.
 
 # Usage
 
